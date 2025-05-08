@@ -23,12 +23,14 @@ The test suite covers various functionalities of the GymMaster application:
 
 ## Test Structure
 
-Tests are organized by contributor in the `cypress/e2e` directory:
+Tests are organized in the `cypress/e2e` directory:
 
 - `cypress/e2e/Yashini/` - Authentication tests
 - `cypress/e2e/Dinesha/` - Plan management tests
 - `cypress/e2e/Sewwandi/` - Contact functionality tests
 - `cypress/e2e/Tharidu/` - Feedback functionality tests
+
+All tests were developed and contributed by Yashini.
 
 ## Running the Tests
 
@@ -58,9 +60,6 @@ Tests are tagged with priorities to indicate their importance:
 - Priority 4: Lower importance (e.g., Logout)
 - Priority 5+: Additional functionality tests
 
-## Contributors
+## Contributor
 
-- Yashini - Authentication tests
-- Dinesha - Plan management tests
-- Sewwandi - Contact functionality tests
-- Tharidu - Feedback functionality tests
+All tests in this repository were developed and contributed by Yashini Hettiarachchi.
